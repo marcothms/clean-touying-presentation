@@ -19,14 +19,14 @@
   // footer: self => text(size: 0.8em, []),
   footer-right: text(size: 0.8em, [#context utils.slide-counter.display()]),
   config-info(
-    title: [Title],
-    subtitle : [Subtitle],
-    author: "Marco Thomas",
-    date: [DDth MMM, YYYY],
+    title: [This is a cool presentation],
+    subtitle : [Made with touying!],
+    author: "Author <author@example.com>",
+    date: [1st Jan, 1970],
     institution: [
       #grid(columns: 2, gutter: 1em,
         image("figures/typst.png", width: 2em),
-        [Some university],
+        [Typst University],
       )
     ]
   ),

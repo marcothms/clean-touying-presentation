@@ -9,6 +9,9 @@ In the end, it's just:
 - enabling speaker notes (using [pympress](https://github.com/Cimbali/pympress))
 - providing some helper functions to use common environments with default parameters (grids, ...)
 
+
+## Features
+
 Thanks to touying, we have:
 - title slides
 - progression bar
@@ -37,3 +40,11 @@ or just the Typst installation on your system:
 $ typst watch presentation --open
 ```
 
+## Screenshots
+
+![](figures/slide.png)
+
+|  |  |  |
+|---|---|---|
+| ![](figures/ex1.png)|![](figures/ex2.png) | ![](figures/ex3.png)|
+| ![](figures/ex4.png)|![](figures/ex5.png) | ![](figures/ex6.png)|
